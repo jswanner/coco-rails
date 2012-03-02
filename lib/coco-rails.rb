@@ -1,0 +1,5 @@
+require 'ruby-coco'
+require 'coco/rails/engine'
+require 'coco/rails/template_handler'
+require 'coco/rails/version'
+require 'sprockets/coco'
